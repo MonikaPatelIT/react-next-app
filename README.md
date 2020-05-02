@@ -123,12 +123,20 @@ nextServer.prepare().then(() => {
   9. now time to run app on server `npm run dev-server`
   
   NOTE: if there is an error 
-  
+![image](https://user-images.githubusercontent.com/9668906/80859872-ff660000-8cb7-11ea-8210-8ccdbd860a39.png)  
   
   Run `npm i cross-env`
   
   and re-run  `npm run dev-server`
   
-  
+  ![image](https://user-images.githubusercontent.com/9668906/80859868-fb39e280-8cb7-11ea-94e2-8d41cbc4c40b.png)
+
+
+![image](https://user-images.githubusercontent.com/9668906/80859882-14429380-8cb8-11ea-805d-b7b430be98a6.png)
+
+run client side app `npm run dev`
+
+![image](https://user-images.githubusercontent.com/9668906/80859928-65528780-8cb8-11ea-8bc4-f94ff086cc63.png)
+
   
   
